@@ -1,5 +1,12 @@
 {
     "name": "genuid",
     "version" : "0.0.1",
-    "private" : true
+    "author" : "Shuhei Hiya",
+    "description" : "unique id generator.",
+    "keywords" : ["id","unique","gen"],
+    "repository": {
+    	"type": "git",
+	    "url": "git://github.com/syuhei176/genuid.git"
+	},
+	"license": "MIT"
 }
