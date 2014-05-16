@@ -1,0 +1,4 @@
+genuid
+======
+
+Generate unique ID.
