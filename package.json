@@ -1,6 +1,6 @@
 {
     "name": "genuid",
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "author" : "Shuhei Hiya",
     "description" : "unique id generator.",
     "keywords" : ["id","unique","gen"],
